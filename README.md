@@ -4,6 +4,7 @@
 
 # Deepdark Material
 A clean dark material theme for Visual Studio Code Editor
+Version in this repository is a fork with yellow (#F3C900) changed to mint (#43FFAF) for the Full Black version
 </div>
 
 <p align="center">
